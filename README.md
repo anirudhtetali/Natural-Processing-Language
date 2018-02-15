@@ -20,3 +20,9 @@ The "cool" column is the number of "cool" votes this review received from other 
 All reviews start with 0 "cool" votes, and there is no limit to how many "cool" votes a review can receive. In other words, it is a rating of the review itself, not a rating of the business.
     
 The "useful" and "funny" columns are similar to the "cool" column.    
+
+# NLP for Spam filtering using Spark
+    
+To build a spam filter using the various NLP tools\   
+    
+dataset - UCI Repository SMS Spam Detection: https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
